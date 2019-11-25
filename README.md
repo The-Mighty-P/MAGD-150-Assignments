@@ -23,5 +23,5 @@ This lab uses user interaction to play a mini game that allows the player to bui
 This lab simulates a Pong game using collision detection and movement. The game changes color depending on the side the ball was it on. The isn't human interactive.
 ## Lab 8:
 This lab is a movie poster called that black sun. PRessing a key allows it to be saved as a PDF, and clicking displays a secret message.
-## Lab 10
-This lab uses 3D objects and uses access to the webcam. PRinted to the console is a cool tidbit on the amount of newcomers were added to Super Smash Bros as of November 2019. The mouse moves around the camera.
+## Lab 10:
+This lab uses 3D objects and uses access to the webcam. Printed to the console is a cool tidbit on the amount of newcomers were added to Super Smash Bros as of November 2019. The mouse moves around the camera.
